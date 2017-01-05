@@ -2,7 +2,7 @@
 
 > Check for and report on module version conflicts for a package
 
-![](screenshot.png)
+<img src="https://github.com/shellscape/gulp-version-conflicts/blob/master/screenshot.png?raw=true" width="468">
 
 ## Install
 
