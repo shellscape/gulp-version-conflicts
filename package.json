@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Check for and report on module version conflicts for a package",
   "main": "index.js",
-  "repository": "shellscape/npm-version-tree",
+  "repository": "shellscape/gulp-version-conflicts",
   "author": {
     "name": "Andrew Powell",
     "email": "andrew@shellscape.org",
@@ -11,10 +11,10 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=7"
+    "node": ">=4"
   },
   "scripts": {
-    "test": "gulp"
+    "test": "gulp test"
   },
   "keywords": [
     "npm",
