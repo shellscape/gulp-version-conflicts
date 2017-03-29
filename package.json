@@ -1,6 +1,6 @@
 {
   "name": "gulp-version-conflicts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check for and report on module version conflicts for a package",
   "main": "index.js",
   "repository": "shellscape/gulp-version-conflicts",
