@@ -7,7 +7,10 @@ Check for and report on module version conflicts for a package
   <b>:rocket: &nbsp; Are you ready to tackle ES6 and hone your JavaScript Skills?</b> &nbsp; :rocket:<br/>
   Check out these outstanding <a href="https://es6.io/friend/POWELL">ES6 courses</a> by <a href="https://github.com/wesbos">@wesbos</a>
 </p>
+
 ---
+
+\* *nvm-version-tree requires Babel, or Node v7+ and [Harmonica](https://github.com/shellscape/harmonica), or Node v7.6+*
 
 <img src="https://github.com/shellscape/gulp-version-conflicts/blob/master/screenshot.png?raw=true" width="468">
 
