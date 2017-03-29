@@ -40,7 +40,6 @@
     "gulp": "^3.9.1",
     "gulp-eslint": "^3.0.1",
     "gulp-mocha": "^4.2.0",
-    "harmonica": "^1.1.0",
     "vinyl-file": "^3.0.0"
   },
   "dependencies": {
