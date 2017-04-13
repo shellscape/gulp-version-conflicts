@@ -16,7 +16,7 @@ describe('gulp-version-conflicts', () => {
 
   	stream.write(vinylFile.readSync('package.json'));
   	stream.end();
-  });
+  }).timeout(5000); // travis seems to have timeout issues;
 
   it ('should not find conflicts', (done) => {
     let stream = plugin();
