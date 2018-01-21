@@ -45,7 +45,7 @@
   "dependencies": {
     "chalk": "^2.0.0",
     "gulp-util": "^3.0.8",
-    "log-symbols": "^1.0.2",
+    "log-symbols": "^2.2.0",
     "npm-version-tree": "^1.0.0",
     "plur": "^2.1.2",
     "text-table": "^0.2.0",
